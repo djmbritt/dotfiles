@@ -1,0 +1,65 @@
+{
+	"auto_complete": false,
+	"auto_complete_commit_on_tab": false,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_inactive_tabs": true,
+	"color_scheme": "Packages/User/SublimeLinter/Flatland_Black (SL).tmTheme",
+	"detect_indentation": true,
+	"draw_indent_guides": true,
+	"enable_tab_scrolling": false,
+	"ensure_newline_at_eof_on_save": true,
+	"find_selected_text": true,
+	"flatland_sidebar_tree_xsmall": true,
+	"flatland_square_tabs": true,
+	"fold_buttons": false,
+	"font_size": 15,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Markdown",
+		"JavaScript"
+	],
+	"index_files": false,
+	"match_brackets": true,
+	"match_brackets_angle": false,
+	"match_brackets_braces": true,
+	"match_brackets_content": true,
+	"match_brackets_square": true,
+	"new_window_settings":
+	{
+		"hide_open_files": true,
+		"show_minimap": true,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": true
+	},
+	"paths":
+	{
+		"linux":
+		[
+		],
+		"osx":
+		[
+		],
+		"windows":
+		[
+		]
+	},
+	"remember_open_files": true,
+	"remember_open_folders": true,
+	"save_on_focus_lost": true,
+	"scroll_past_end": true,
+	"status_bar_brighter": true,
+	"tab_size": 2,
+	"tabs_padding_small": true,
+	"tabs_small": true,
+	"theme": "Default.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_simple_full_screen": true,
+	"vintage_start_in_command_mode": false,
+	"word_wrap": true
+}
